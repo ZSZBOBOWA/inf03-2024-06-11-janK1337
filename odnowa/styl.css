@@ -1,0 +1,58 @@
+* {
+    font-family: 'Helvetica'
+}
+
+.baner {
+    background-color: Saddlebrown;
+    color: white;
+    text-align: center;
+    padding: 7px;
+}
+
+footer {
+    background-color: Saddlebrown;
+    color: white;
+    text-align: center;
+    padding: 7px;
+}
+
+.lewyMenu {
+    background-color: Peru;
+    color: white;
+    width: 80%;
+    height: 40px;
+    padding-top: 20px;
+    float: left;
+}
+
+.lewyGlowny {
+    width: 80%;
+    height: 700px;
+    font-size: 120%;
+    overflow: auto;
+
+}
+
+.prawy {
+    background-color: Peru;
+    color: white;
+    width: 20%;
+    height: 760px;
+    float: right;
+}
+
+a {
+    color: #DDD;
+    margin-left: 90px;
+    font-size: 140%;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+img {
+    float: left;
+    text-align: right;
+    padding: 30px;
+}
